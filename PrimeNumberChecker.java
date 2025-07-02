@@ -1,6 +1,6 @@
 public class PrimeNumberChecker {
     public static void main(String[] args) {
-        int number = 25; // You will change this later in Q1
+        int number = 32; // You will change this later in Q1
 
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
